@@ -25,3 +25,11 @@ AMP Start is made by the [AMP Project](https://www.ampproject.org/), and is lice
 under the [Apache License, Version 2.0](LICENSE).
 
 ### [Code of conduct](CODE_OF_CONDUCT.md)
+
+### Extra Resources:
+```
+https://github.com/pdevty/amp
+https://themes.gohugo.io/
+https://github.com/themefisher
+https://themes.gohugo.io/theme/hugo-elate-theme/
+```
